@@ -12,5 +12,7 @@
         "attr": {
             "data-state": "questions"
         }
-    }
+    },
+    "design-patterns.md",
+    "design-patterns-definition.md"
 ]
