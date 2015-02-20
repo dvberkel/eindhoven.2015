@@ -1,1 +1,9 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "info-support.md",
+        "attr": {
+            "data-background": "white"
+        }
+    }
+]
