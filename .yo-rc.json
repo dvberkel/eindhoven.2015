@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Guest Lecture",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "dvberkel",
+    "githubRepository": "eindhoven.2015"
+  }
+}
