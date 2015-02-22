@@ -28,5 +28,6 @@
     "retrospective.md",
     "observer-explained.html",
     "dependency-injection.md",
-    "specialisation-explained.html"
+    "specialisation-explained.html",
+    "delegation.md"
 ]
