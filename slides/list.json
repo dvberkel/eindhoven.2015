@@ -26,5 +26,6 @@
     "mvc-explained.html",
     "demo.md",
     "retrospective.md",
-    "observer-explained.html"
+    "observer-explained.html",
+    "dependency-injection.md"
 ]
