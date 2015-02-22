@@ -39,5 +39,16 @@
     "browsers.md",
     "internet.md",
     "rest.md",
-    "rest-explained.md"
+    "rest-explained.md",
+    [
+        "demo.md",
+        "github-api.md",
+        "github-api-result.md",
+        "github-user.md",
+        "github-user-result.md",
+        "github-orgs.md",
+        "github-orgs-result.md",
+        "github-repos.md",
+        "github-repos-result.md"
+    ]
 ]
