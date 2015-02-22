@@ -29,5 +29,6 @@
     "observer-explained.html",
     "dependency-injection.md",
     "specialisation-explained.html",
-    "delegation.md"
+    "delegation.md",
+    "angularjs.md"
 ]
