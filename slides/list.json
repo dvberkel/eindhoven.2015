@@ -25,5 +25,6 @@
     "mvc.md",
     "mvc-explained.html",
     "demo.md",
-    "retrospective.md"
+    "retrospective.md",
+    "observer-explained.html"
 ]
