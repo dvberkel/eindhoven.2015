@@ -30,5 +30,6 @@
     "dependency-injection.md",
     "specialisation-explained.html",
     "delegation.md",
-    "angularjs.md"
+    "angularjs.md",
+    "demo.md"
 ]
