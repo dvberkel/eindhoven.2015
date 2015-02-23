@@ -50,5 +50,15 @@
         "github-orgs-result.md",
         "github-repos.md",
         "github-repos-result.md"
-    ]
+    ],
+    "kwetter-resources.md",
+    "addresses.md",
+    [
+        "uniform-resource.md",
+        "get.md",
+        "postput.md",
+        "delete.md",
+        "head.md"
+    ],
+    "interconnectedness.md"
 ]
