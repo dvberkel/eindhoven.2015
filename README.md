@@ -9,6 +9,7 @@ Demonstation
 
 The lectures are accompanied by the following demonstrations:
 
-1. [2015.02.23][] Introduction to AngularJS and Java EE development.
+1. [2015.02.23][] Introduction to AngularJS and Java EE
+   development. We presented all the intended demonstrations.
 
 [2015.02.23]: https://github.com/dvberkel/eindhoven.2015.02.23
