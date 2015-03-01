@@ -46,7 +46,6 @@
     "browsers.md",
     "internet.md",
     "rest.md",
-    "rest-explained.md",
     [
         "demo.md",
         "github-api.md",
@@ -58,8 +57,11 @@
         "github-repos.md",
         "github-repos-result.md"
     ],
+    "rest-explained.md",
     "kwetter-resources.md",
+    "retrospective.md",
     "addresses.md",
+    "retrospective.md",
     [
         "uniform-resource.md",
         "get.md",
@@ -67,6 +69,8 @@
         "delete.md",
         "head.md"
     ],
+    "assignment.md",
+    "retrospective.md",
     "interconnectedness.md",
-    "to-be-continued.md"
+    "retrospective.md"
 ]
